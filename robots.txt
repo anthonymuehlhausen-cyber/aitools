@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aitools-3frz.onrender.com/sitemap.xml
